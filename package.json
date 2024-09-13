@@ -1,5 +1,5 @@
 {
-  "name": "ts-mastery-pro",
+  "name": "firbase-nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nx-extend/shadcn-ui": "^3.1.2",
     "@radix-ui/react-slot": "^1.1.0",
     "@sanity/image-url": "^1.0.2",
     "@sanity/vision": "^3.57.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "firebase": "^10.13.1",
     "firebase-tools": "^13.16.0",
     "lucide-react": "^0.439.0",
     "next": "14.2.9",
@@ -24,7 +22,6 @@
     "react": "^18",
     "react-dom": "^18",
     "sanity": "^3.57.2",
-    "shadcn-ui": "^0.9.0",
     "styled-components": "^6.1.13",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7"
@@ -33,6 +30,8 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.9",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
