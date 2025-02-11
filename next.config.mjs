@@ -36,5 +36,5 @@ const nextConfig = {
     },
 };
 
+// https://ts-mastery-pro.vercel.app/
 export default nextConfig;
-ccc
